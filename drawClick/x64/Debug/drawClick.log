@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(18,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(22,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(23,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(24,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(25,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(26,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(63,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Phemeus\source\repos\drawClick\drawClick\Source.cpp(63,20): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  drawClick.vcxproj -> C:\Users\Phemeus\source\repos\drawClick\x64\Debug\drawClick.exe
